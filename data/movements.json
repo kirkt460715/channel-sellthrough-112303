@@ -1,0 +1,1420 @@
+[
+  {
+    "movement": "F0-0",
+    "date": "2025-06-01",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-01"
+  },
+  {
+    "movement": "F0-1",
+    "date": "2025-06-01",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-01"
+  },
+  {
+    "movement": "F0-2",
+    "date": "2025-06-01",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-01"
+  },
+  {
+    "movement": "F1-0",
+    "date": "2025-06-02",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-02"
+  },
+  {
+    "movement": "F1-1",
+    "date": "2025-06-02",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-02"
+  },
+  {
+    "movement": "F1-2",
+    "date": "2025-06-02",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-02"
+  },
+  {
+    "movement": "F2-0",
+    "date": "2025-06-03",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-03"
+  },
+  {
+    "movement": "F2-1",
+    "date": "2025-06-03",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-03"
+  },
+  {
+    "movement": "F2-2",
+    "date": "2025-06-03",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-03"
+  },
+  {
+    "movement": "F3-0",
+    "date": "2025-06-04",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-04"
+  },
+  {
+    "movement": "F3-1",
+    "date": "2025-06-04",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-04"
+  },
+  {
+    "movement": "F3-2",
+    "date": "2025-06-04",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-04"
+  },
+  {
+    "movement": "F4-0",
+    "date": "2025-06-05",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-05"
+  },
+  {
+    "movement": "F4-1",
+    "date": "2025-06-05",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-05"
+  },
+  {
+    "movement": "F4-2",
+    "date": "2025-06-05",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-05"
+  },
+  {
+    "movement": "F5-0",
+    "date": "2025-06-06",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-06"
+  },
+  {
+    "movement": "F5-1",
+    "date": "2025-06-06",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-06"
+  },
+  {
+    "movement": "F5-2",
+    "date": "2025-06-06",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-06"
+  },
+  {
+    "movement": "F6-0",
+    "date": "2025-06-07",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-07"
+  },
+  {
+    "movement": "F6-1",
+    "date": "2025-06-07",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-07"
+  },
+  {
+    "movement": "F6-2",
+    "date": "2025-06-07",
+    "batch": "L00",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-07"
+  },
+  {
+    "movement": "F7-0",
+    "date": "2025-06-08",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-08"
+  },
+  {
+    "movement": "F7-1",
+    "date": "2025-06-08",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-08"
+  },
+  {
+    "movement": "F7-2",
+    "date": "2025-06-08",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-08"
+  },
+  {
+    "movement": "F8-0",
+    "date": "2025-06-09",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-09"
+  },
+  {
+    "movement": "F8-1",
+    "date": "2025-06-09",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-09"
+  },
+  {
+    "movement": "F8-2",
+    "date": "2025-06-09",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-09"
+  },
+  {
+    "movement": "F9-0",
+    "date": "2025-06-10",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-10"
+  },
+  {
+    "movement": "F9-1",
+    "date": "2025-06-10",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-10"
+  },
+  {
+    "movement": "F9-2",
+    "date": "2025-06-10",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-10"
+  },
+  {
+    "movement": "F10-0",
+    "date": "2025-06-11",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-11"
+  },
+  {
+    "movement": "F10-1",
+    "date": "2025-06-11",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-11"
+  },
+  {
+    "movement": "F10-2",
+    "date": "2025-06-11",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-11"
+  },
+  {
+    "movement": "F11-0",
+    "date": "2025-06-12",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-12"
+  },
+  {
+    "movement": "F11-1",
+    "date": "2025-06-12",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-12"
+  },
+  {
+    "movement": "F11-2",
+    "date": "2025-06-12",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-12"
+  },
+  {
+    "movement": "F12-0",
+    "date": "2025-06-13",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-13"
+  },
+  {
+    "movement": "F12-1",
+    "date": "2025-06-13",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-13"
+  },
+  {
+    "movement": "F12-2",
+    "date": "2025-06-13",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-13"
+  },
+  {
+    "movement": "F13-0",
+    "date": "2025-06-14",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-14"
+  },
+  {
+    "movement": "F13-1",
+    "date": "2025-06-14",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-14"
+  },
+  {
+    "movement": "F13-2",
+    "date": "2025-06-14",
+    "batch": "L01",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-14"
+  },
+  {
+    "movement": "F14-0",
+    "date": "2025-06-15",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-15"
+  },
+  {
+    "movement": "F14-1",
+    "date": "2025-06-15",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-15"
+  },
+  {
+    "movement": "F14-2",
+    "date": "2025-06-15",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-15"
+  },
+  {
+    "movement": "F15-0",
+    "date": "2025-06-16",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-16"
+  },
+  {
+    "movement": "F15-1",
+    "date": "2025-06-16",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-16"
+  },
+  {
+    "movement": "F15-2",
+    "date": "2025-06-16",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-16"
+  },
+  {
+    "movement": "F16-0",
+    "date": "2025-06-17",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-17"
+  },
+  {
+    "movement": "F16-1",
+    "date": "2025-06-17",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-17"
+  },
+  {
+    "movement": "F16-2",
+    "date": "2025-06-17",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-17"
+  },
+  {
+    "movement": "F17-0",
+    "date": "2025-06-18",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-18"
+  },
+  {
+    "movement": "F17-1",
+    "date": "2025-06-18",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-18"
+  },
+  {
+    "movement": "F17-2",
+    "date": "2025-06-18",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-18"
+  },
+  {
+    "movement": "F18-0",
+    "date": "2025-06-19",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-19"
+  },
+  {
+    "movement": "F18-1",
+    "date": "2025-06-19",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-19"
+  },
+  {
+    "movement": "F18-2",
+    "date": "2025-06-19",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-19"
+  },
+  {
+    "movement": "F19-0",
+    "date": "2025-06-20",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-20"
+  },
+  {
+    "movement": "F19-1",
+    "date": "2025-06-20",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-20"
+  },
+  {
+    "movement": "F19-2",
+    "date": "2025-06-20",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-20"
+  },
+  {
+    "movement": "F20-0",
+    "date": "2025-06-21",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-21"
+  },
+  {
+    "movement": "F20-1",
+    "date": "2025-06-21",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-21"
+  },
+  {
+    "movement": "F20-2",
+    "date": "2025-06-21",
+    "batch": "L02",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-21"
+  },
+  {
+    "movement": "F21-0",
+    "date": "2025-06-22",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-22"
+  },
+  {
+    "movement": "F21-1",
+    "date": "2025-06-22",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-22"
+  },
+  {
+    "movement": "F21-2",
+    "date": "2025-06-22",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-22"
+  },
+  {
+    "movement": "F22-0",
+    "date": "2025-06-23",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-23"
+  },
+  {
+    "movement": "F22-1",
+    "date": "2025-06-23",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-23"
+  },
+  {
+    "movement": "F22-2",
+    "date": "2025-06-23",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-23"
+  },
+  {
+    "movement": "F23-0",
+    "date": "2025-06-24",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-24"
+  },
+  {
+    "movement": "F23-1",
+    "date": "2025-06-24",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-24"
+  },
+  {
+    "movement": "F23-2",
+    "date": "2025-06-24",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-24"
+  },
+  {
+    "movement": "F24-0",
+    "date": "2025-06-25",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-25"
+  },
+  {
+    "movement": "F24-1",
+    "date": "2025-06-25",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-25"
+  },
+  {
+    "movement": "F24-2",
+    "date": "2025-06-25",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-25"
+  },
+  {
+    "movement": "F25-0",
+    "date": "2025-06-26",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-26"
+  },
+  {
+    "movement": "F25-1",
+    "date": "2025-06-26",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-26"
+  },
+  {
+    "movement": "F25-2",
+    "date": "2025-06-26",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-26"
+  },
+  {
+    "movement": "F26-0",
+    "date": "2025-06-27",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-27"
+  },
+  {
+    "movement": "F26-1",
+    "date": "2025-06-27",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-27"
+  },
+  {
+    "movement": "F26-2",
+    "date": "2025-06-27",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-27"
+  },
+  {
+    "movement": "F27-0",
+    "date": "2025-06-28",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-28"
+  },
+  {
+    "movement": "F27-1",
+    "date": "2025-06-28",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-28"
+  },
+  {
+    "movement": "F27-2",
+    "date": "2025-06-28",
+    "batch": "L03",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-28"
+  },
+  {
+    "movement": "F28-0",
+    "date": "2025-06-29",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-29"
+  },
+  {
+    "movement": "F28-1",
+    "date": "2025-06-29",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-29"
+  },
+  {
+    "movement": "F28-2",
+    "date": "2025-06-29",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-29"
+  },
+  {
+    "movement": "F29-0",
+    "date": "2025-06-30",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-30"
+  },
+  {
+    "movement": "F29-1",
+    "date": "2025-06-30",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-30"
+  },
+  {
+    "movement": "F29-2",
+    "date": "2025-06-30",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-06-30"
+  },
+  {
+    "movement": "F30-0",
+    "date": "2025-07-01",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-01"
+  },
+  {
+    "movement": "F30-1",
+    "date": "2025-07-01",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-01"
+  },
+  {
+    "movement": "F30-2",
+    "date": "2025-07-01",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-01"
+  },
+  {
+    "movement": "F31-0",
+    "date": "2025-07-02",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-02"
+  },
+  {
+    "movement": "F31-1",
+    "date": "2025-07-02",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-02"
+  },
+  {
+    "movement": "F31-2",
+    "date": "2025-07-02",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-02"
+  },
+  {
+    "movement": "F32-0",
+    "date": "2025-07-03",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-03"
+  },
+  {
+    "movement": "F32-1",
+    "date": "2025-07-03",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-03"
+  },
+  {
+    "movement": "F32-2",
+    "date": "2025-07-03",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-03"
+  },
+  {
+    "movement": "F33-0",
+    "date": "2025-07-04",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-04"
+  },
+  {
+    "movement": "F33-1",
+    "date": "2025-07-04",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-04"
+  },
+  {
+    "movement": "F33-2",
+    "date": "2025-07-04",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 9,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-04"
+  },
+  {
+    "movement": "F34-0",
+    "date": "2025-07-05",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-05"
+  },
+  {
+    "movement": "F34-1",
+    "date": "2025-07-05",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 10,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-05"
+  },
+  {
+    "movement": "F34-2",
+    "date": "2025-07-05",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "南区"
+    ],
+    "quantity": 7,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-05"
+  },
+  {
+    "movement": "T1",
+    "date": "2025-07-02",
+    "batch": "L04",
+    "from_site": "东区",
+    "possible_destinations": [
+      "西区",
+      "南区"
+    ],
+    "quantity": 14,
+    "unit": "箱",
+    "state": "在途",
+    "received": null
+  },
+  {
+    "movement": "T2",
+    "date": "2025-07-04",
+    "batch": "L04",
+    "from_site": "西区",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 4,
+    "unit": "箱",
+    "state": "签收",
+    "received": "2025-07-04"
+  },
+  {
+    "movement": "T3",
+    "date": "2025-07-05",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "东区"
+    ],
+    "quantity": 8,
+    "unit": "箱",
+    "state": "备发未签收",
+    "received": null
+  },
+  {
+    "movement": "T4",
+    "date": "2025-07-05",
+    "batch": "L04",
+    "from_site": "总仓",
+    "possible_destinations": [
+      "西区"
+    ],
+    "quantity": 6,
+    "unit": "箱",
+    "state": "在途",
+    "received": null
+  }
+]

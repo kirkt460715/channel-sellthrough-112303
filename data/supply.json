@@ -1,0 +1,26 @@
+{
+  "as_of": "2025-07-06",
+  "warehouse_bags": 96,
+  "packs": {
+    "箱": 12,
+    "袋": 1
+  },
+  "min_coverage_days": {
+    "东区": 2,
+    "西区": 3,
+    "南区": 2
+  },
+  "today_reorder_lots": [
+    "L04"
+  ],
+  "destination_service_capacity": {
+    "东区": 180,
+    "西区": 180,
+    "南区": 192
+  },
+  "due": {
+    "T3": "2025-07-07",
+    "T4": "2025-07-08"
+  },
+  "observation_window_days": 7
+}

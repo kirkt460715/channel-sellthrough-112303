@@ -1,0 +1,25 @@
+[
+  {
+    "id": "C1",
+    "received": "2025-07-06",
+    "relates": "T1",
+    "field": "possible_destinations",
+    "value": [
+      "南区"
+    ]
+  },
+  {
+    "id": "C2",
+    "received": "2025-07-06",
+    "relates": "Z32-0",
+    "field": "site",
+    "value": "南区"
+  },
+  {
+    "id": "C3",
+    "received": "2025-07-08",
+    "relates": "T4",
+    "field": "received",
+    "value": "2025-07-08"
+  }
+]

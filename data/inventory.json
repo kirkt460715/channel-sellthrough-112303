@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2025-06-30",
+    "site": "东区",
+    "batch": "L04",
+    "count": 195,
+    "unit": "袋",
+    "state": "确认"
+  },
+  {
+    "date": "2025-07-05",
+    "site": "东区",
+    "batch": "L04",
+    "count": 132,
+    "unit": "袋",
+    "state": "待复盘"
+  },
+  {
+    "date": "2025-06-30",
+    "site": "西区",
+    "batch": "L04",
+    "count": 25,
+    "unit": "袋",
+    "state": "确认"
+  },
+  {
+    "date": "2025-07-05",
+    "site": "西区",
+    "batch": "L04",
+    "count": null,
+    "unit": "袋",
+    "state": "缺报"
+  },
+  {
+    "date": "2025-06-30",
+    "site": "南区",
+    "batch": "L04",
+    "count": 30,
+    "unit": "袋",
+    "state": "确认"
+  },
+  {
+    "date": "2025-07-05",
+    "site": "南区",
+    "batch": "L04",
+    "count": 174,
+    "unit": "袋",
+    "state": "待复盘"
+  }
+]

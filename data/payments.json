@@ -1,0 +1,23 @@
+[
+  {
+    "payment": "Y1",
+    "terminal_id": "Z32-0",
+    "recipient": "总店甲",
+    "quantity": 36,
+    "state": "已付"
+  },
+  {
+    "payment": "Y2",
+    "terminal_id": "Z32-0",
+    "recipient": "联营甲",
+    "quantity": 36,
+    "state": "待审"
+  },
+  {
+    "payment": "Y3",
+    "terminal_id": "Z-S",
+    "recipient": "总店乙",
+    "quantity": 12,
+    "state": "待审"
+  }
+]

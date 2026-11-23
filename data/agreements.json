@@ -1,0 +1,35 @@
+[
+  {
+    "site": "东区",
+    "served_market": "东区",
+    "shares": {
+      "总店甲": 70,
+      "联营甲": 30
+    },
+    "covered_batch": "L04",
+    "rebate_fen_per_bag": 55,
+    "exceptions": []
+  },
+  {
+    "site": "西区",
+    "served_market": "西区",
+    "shares": {
+      "总店乙": 100
+    },
+    "covered_batch": "L04",
+    "rebate_fen_per_bag": 50,
+    "exceptions": [
+      "Z-X"
+    ]
+  },
+  {
+    "site": "南区",
+    "served_market": "南区",
+    "shares": {
+      "总店丙": 100
+    },
+    "covered_batch": "L04",
+    "rebate_fen_per_bag": 50,
+    "exceptions": []
+  }
+]
