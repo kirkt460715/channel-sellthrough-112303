@@ -12,7 +12,7 @@ def table(name):
 
 
 class SourceDataTest(unittest.TestCase):
-def test_return_and_rebate_preserve_original_references(self):
+    def test_return_and_rebate_preserve_original_references(self):
         terminal = {r["id"]:r for r in table("sell_records")}
         for row in terminal.values():
             if row["original"]:
